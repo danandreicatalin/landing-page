@@ -1,0 +1,33 @@
+body{
+    font-family: "Roboto";
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+.part1 {
+    background-color: #1F2937;
+}
+.part1a {
+    display:flex ;
+}
+.header {
+    display:flex ;
+}
+
+.yonko {
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.kaido , .bigmom , .shanks , .blackbeard {
+    padding: 10px;
+}
+
+.part2title {
+    align-items:
+}
