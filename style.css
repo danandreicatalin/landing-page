@@ -1,0 +1,21 @@
+body{
+    font-family:roboto ;
+}
+.part1 {
+    background-color: #1F2937;
+}
+.topleft {
+    display:flex ;
+
+}
+
+.topright {
+    display:flex ;
+    justify-content: center;
+}
+
+.part2 {
+    display:flex ;
+    justify-content: space-between;
+    gap: 30px;
+}
